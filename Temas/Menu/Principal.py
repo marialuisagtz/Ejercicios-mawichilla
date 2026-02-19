@@ -1,3 +1,4 @@
+version 2 con POO
 from Temas.Básicos.ejercicio1 import ejercicio_1
 from Temas.Básicos.ejercicio2 import ejercicio_2
 from Temas.Listas.Ejercicio3 import ejercicio_3
